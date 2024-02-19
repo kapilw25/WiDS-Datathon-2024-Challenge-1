@@ -1,3 +1,9 @@
+![Kaggle Leaderboard](Kaggle_leaderboard.png)
+
+![KNN Imputation](KNN_imputation.png)
+
+![ML model performances](output.png)
+
 # Interpretations
 
 When comparing the performance of these six machine learning classification models across various metrics, we observe the following:
