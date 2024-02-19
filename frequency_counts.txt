@@ -1,0 +1,252 @@
+Frequency Counts for Categorical Columns:
+Column: patient_race
+patient_race
+White       9973
+Black       1056
+Hispanic     829
+Other        683
+Asian        365
+
+Column: payer_type
+payer_type
+COMMERCIAL            7835
+MEDICAID              2569
+MEDICARE ADVANTAGE    2502
+
+Column: patient_state
+patient_state
+CA    2489
+TX    1155
+NY    1041
+MI     858
+IL     782
+OH     754
+FL     609
+GA     551
+PA     483
+MN     377
+CO     371
+VA     365
+IN     317
+KY     259
+AZ     229
+WI     212
+WA     200
+NC     186
+MO     160
+NM     141
+LA     139
+TN     112
+SC     110
+ID      93
+OK      93
+OR      89
+IA      86
+MS      76
+MD      71
+AR      63
+NV      62
+KS      50
+AL      50
+MT      45
+NE      40
+UT      36
+DE      33
+WV      27
+HI      21
+NJ      21
+DC      20
+SD       8
+ND       6
+AK       6
+WY       4
+CT       2
+PR       1
+RI       1
+NH       1
+MA       1
+
+Column: patient_gender
+patient_gender
+F    12906
+
+Column: breast_cancer_diagnosis_code
+breast_cancer_diagnosis_code
+1749      1982
+C50911    1797
+C50912    1712
+C50919    1467
+C50411     978
+C50412     877
+C50811     491
+C50812     419
+1744       389
+1748       307
+C50212     293
+C50211     276
+C50511     213
+C50112     209
+C50111     208
+C50512     176
+C50312     159
+C50311     138
+C50011     108
+C50012     105
+1742        98
+1741        88
+1745        71
+C50819      54
+C50419      48
+C5091       37
+1743        34
+C50612      29
+C50611      25
+C50319      16
+C50019      13
+1746        12
+C50219      11
+C50119      11
+C5041        9
+19881        9
+C5081        8
+C50519       8
+C5021        3
+C509         3
+C50929       3
+C50619       3
+C5011        2
+C50021       1
+C5031        1
+C5051        1
+C50          1
+1759         1
+C5001        1
+C50421       1
+
+Column: breast_cancer_diagnosis_desc
+breast_cancer_diagnosis_desc
+Malignant neoplasm of breast (female), unspecified                  1982
+Malignant neoplasm of unsp site of right female breast              1797
+Malignant neoplasm of unspecified site of left female breast        1712
+Malignant neoplasm of unsp site of unspecified female breast        1467
+Malig neoplm of upper-outer quadrant of right female breast          978
+Malig neoplasm of upper-outer quadrant of left female breast         877
+Malignant neoplasm of ovrlp sites of right female breast             491
+Malignant neoplasm of ovrlp sites of left female breast              419
+Malignant neoplasm of upper-outer quadrant of female breast          389
+Malignant neoplasm of other specified sites of female breast         307
+Malig neoplasm of upper-inner quadrant of left female breast         293
+Malig neoplm of upper-inner quadrant of right female breast          276
+Malig neoplm of lower-outer quadrant of right female breast          213
+Malignant neoplasm of central portion of left female breast          209
+Malignant neoplasm of central portion of right female breast         208
+Malig neoplasm of lower-outer quadrant of left female breast         176
+Malig neoplasm of lower-inner quadrant of left female breast         159
+Malig neoplm of lower-inner quadrant of right female breast          138
+Malignant neoplasm of nipple and areola, right female breast         108
+Malignant neoplasm of nipple and areola, left female breast          105
+Malignant neoplasm of upper-inner quadrant of female breast           98
+Malignant neoplasm of central portion of female breast                88
+Malignant neoplasm of lower-outer quadrant of female breast           71
+Malignant neoplasm of ovrlp sites of unsp female breast               54
+Malig neoplasm of upper-outer quadrant of unsp female breast          48
+Malignant neoplasm of breast of unspecified site, female              37
+Malignant neoplasm of lower-inner quadrant of female breast           34
+Malignant neoplasm of axillary tail of left female breast             29
+Malignant neoplasm of axillary tail of right female breast            25
+Malig neoplasm of lower-inner quadrant of unsp female breast          16
+Malignant neoplasm of nipple and areola, unsp female breast           13
+Malignant neoplasm of axillary tail of female breast                  12
+Malig neoplasm of upper-inner quadrant of unsp female breast          11
+Malignant neoplasm of central portion of unsp female breast           11
+Malignant neoplasm of upper-outer quadrant of breast, female           9
+Secondary malignant neoplasm of breast                                 9
+Malignant neoplasm of overlapping sites of breast, female              8
+Malig neoplasm of lower-outer quadrant of unsp female breast           8
+Malignant neoplasm of upper-inner quadrant of breast, female           3
+Malignant neoplasm of breast of unspecified site                       3
+Malignant neoplasm of unsp site of unspecified male breast             3
+Malignant neoplasm of axillary tail of unsp female breast              3
+Malignant neoplasm of central portion of breast, female                2
+Malignant neoplasm of nipple and areola, right male breast             1
+Malignant neoplasm of lower-inner quadrant of breast, female           1
+Malignant neoplasm of lower-outer quadrant of breast, female           1
+Malignant neoplasm of breast                                           1
+Malignant neoplasm of other and unspecified sites of male breast       1
+Malignant neoplasm of nipple and areola, female                        1
+Malig neoplasm of upper-outer quadrant of right male breast            1
+
+Column: metastatic_cancer_diagnosis_code
+metastatic_cancer_diagnosis_code
+C773     7052
+C7951    1842
+C779      764
+C7981     467
+C7800     414
+C787      362
+C7989     344
+C799      282
+C7931     282
+C792      166
+C771      156
+C7801     149
+C770      126
+C782       81
+C778       77
+C7802      73
+C786       43
+C7952      32
+C781       31
+C772       27
+C785       16
+C7960      16
+C7949      15
+C775       13
+C7982      12
+C7889      12
+C7970       8
+C7940       7
+C7932       7
+C784        6
+C7911       5
+C774        3
+C7961       3
+C7900       2
+C7880       2
+C7901       2
+C7972       1
+C7910       1
+C7839       1
+C7962       1
+C7971       1
+C7830       1
+C7919       1
+
+Column: metastatic_first_novel_treatment
+metastatic_first_novel_treatment
+PEMBROLIZUMAB    12895
+OLAPARIB            11
+
+Column: metastatic_first_novel_treatment_type
+metastatic_first_novel_treatment_type
+Antineoplastics    12906
+
+Column: Region
+Region
+South        3971
+West         3735
+Midwest      3650
+Northeast    1550
+
+Column: Division
+Division
+East North Central    2975
+Pacific               2754
+South Atlantic        1972
+Middle Atlantic       1545
+West South Central    1450
+Mountain               981
+West North Central     727
+East South Central     497
+New England              5
+
